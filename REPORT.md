@@ -71,6 +71,9 @@ nutrients) Etiquette scores 83.0. nutrition-extractor does not read those fields
 
 ## What we offer
 
+This is an offer of an open model to run inside Robotoff, under your control, not of predictions to import. The weights are
+Apache 2.0, so Robotoff can host, fine-tune or replace it without asking anyone.
+
 - The weights, Apache 2.0: [huggingface.co/FoodClockLabs/Etiquette-1-8B](https://huggingface.co/FoodClockLabs/Etiquette-1-8B).
   GGUF quants for laptops and CPUs: [mradermacher/Etiquette-1-8B-GGUF](https://huggingface.co/mradermacher/Etiquette-1-8B-GGUF)
   (Q4_K_M to f16, with the mmproj), and a stdlib runner (`run_gguf.py` in the model repo), so it runs without our stack.
