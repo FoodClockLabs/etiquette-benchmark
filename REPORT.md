@@ -88,4 +88,4 @@ nutrients) Etiquette scores 83.0. nutrition-extractor does not read those fields
 
 Happy to be corrected on anything in the method, here in the thread.
 
-*Posted as a GitHub Discussion (Show and tell) on openfoodfacts/openfoodfacts-ai; this file is the same text.*
+*Posted as a GitHub Discussion (Show and tell) on openfoodfacts/openfoodfacts-ai. This file is the same text.*
