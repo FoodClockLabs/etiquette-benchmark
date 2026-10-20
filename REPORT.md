@@ -64,7 +64,7 @@ nutrients) Etiquette scores 83.0. nutrition-extractor does not read those fields
 - It says an end-to-end reader on the photo is now more accurate than OCR plus token classification on what packs print, on
   your test set and on ours.
 - It does not say nutrition-extractor is a bad model: on its own tokens it is excellent, and it runs on a CPU after one OCR call.
-- The costs are different. Etiquette needs a GPU: about a second a photo on a consumer card, roughly 0.06 cent of electricity,
+- The costs are different. Etiquette needs a GPU: a few seconds a product on one card, roughly 0.06 cent of electricity,
   no OCR bill. A Q4 GGUF runs on a laptop at some loss (79.9 on our full card against 83.0 for BF16, the nutrition rows hold up better).
 - It reads what is printed. It does not compute, convert or infer values, so "salt from sodium" and per-serving-to-100g are
   deliberately not done.
