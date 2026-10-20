@@ -91,4 +91,4 @@ Apache 2.0, so Robotoff can host, fine-tune or replace it without asking anyone.
 
 Happy to be corrected on anything in the method, here in the thread.
 
-*Posted as a GitHub Discussion (Show and tell) on openfoodfacts/openfoodfacts-ai. This file is the same text.*
+*Posted 20 October 2026 as a GitHub Discussion (Show and tell): https://github.com/openfoodfacts/openfoodfacts-ai/discussions/387. This file is the same text.*
