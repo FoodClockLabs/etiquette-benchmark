@@ -75,6 +75,10 @@ For each key in `nutriments` with a non-null value, with `suffix = "100g"` if `b
 
 ## 5. What to expect
 
+**Scale.** Open Food Facts holds about four million products, of the order of two million with a nutrition photo. At a few seconds
+a product on one GPU that is roughly a hundred GPU-days for a full pass, which a project can run in waves (newest products first,
+or only products whose stored values the reading contradicts) on one card, with no per-image OCR cost.
+
 - Rotated or sideways tables: the most common Etiquette error class, one row read into its neighbour. If a product has a
   nutrition_xx selected image, send that one first.
 - Arabic and other non-Latin tables: read directly from the photo; this is where the OCR route misses most.
