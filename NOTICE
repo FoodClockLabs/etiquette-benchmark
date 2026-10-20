@@ -1,0 +1,13 @@
+etiquette-benchmark, FoodClock Labs, 2026. Apache License 2.0 except where stated below.
+
+common/robotoff_port.py is a port of robotoff/prediction/nutrition_extraction.py from Open Food Facts' Robotoff
+(https://github.com/openfoodfacts/robotoff), AGPL-3.0, (c) Open Food Facts contributors. That file is AGPL-3.0.
+
+panels199/data and panels199/truth_*.json derive from the dataset openfoodfacts/nutrient-detection-layout, CC BY-SA,
+(c) Open Food Facts contributors. holdout100/cards.jsonl is FoodClock Labs' printed-truth set, CC BY-SA; the photos it
+points to are Open Food Facts product images, CC BY-SA, (c) their contributors; product data ODbL.
+
+openfoodfacts/nutrition-extractor is CC BY-NC-SA 4.0 and is used here for evaluation only. Nothing in this repository
+redistributes its weights.
+
+Etiquette-1-8B is Apache 2.0 (FoodClock Labs; base model Qwen3-VL-8B-Instruct, Apache 2.0, (c) Alibaba Cloud).

@@ -1,0 +1,65 @@
+{"code":"0003413052826","salt_100g":{"C":1.2}}
+{"code":"0010700066862","proteins_serving":{"C":1.0,"q":"<"}}
+{"code":"0011110856050","sugars_serving":{"C":null},"fiber_serving":{"C":null},"note":"not a significant source footnote; no row printed"}
+{"code":"0012656707394","basis_note":"serving is 100 g; Etiquette's 100 g reading applies","ours_basis_ok":true}
+{"code":"0207050011813","energy_kcal_100g":{"C":304.0},"proteins_100g":{"C":3.6}}
+{"code":"0238094012467","salt_100g":{"C":0.1}}
+{"code":"06174988","salt_100g":{"C":0.91}}
+{"code":"20228583","energy_kcal_100g":{"C":106.0},"proteins_100g":{"C":9.8}}
+{"code":"2209250005904","energy_kcal_100g":{"C":119.0},"carbohydrates_100g":{"C":0.5,"q":"<"},"sugars_100g":{"C":0.5,"q":"<"}}
+{"code":"2245349023886","carbohydrates_100g":{"C":0.0,"q":"traces"},"sugars_100g":{"C":0.0,"q":"traces"},"energy_kcal_100g":{"C":154.0},"energy_kj_100g":{"C":642.0},"salt_100g":{"C":0.13},"note":"sideways label; Etiquette misaligned carbs (read proteins 23) and sugars (read salt 0.13)"}
+{"code":"2245349024531","energy_kcal_100g":{"C":154.0},"fat_100g":{"C":1.8},"carbohydrates_100g":{"C":0.0,"q":"traces"},"sugars_100g":{"C":0.0,"q":"traces"},"salt_100g":{"C":0.13}}
+{"code":"2274902040015","fat_100g":{"C":12.9},"carbohydrates_100g":{"C":16.9}}
+{"code":"2600712024806","energy_kj_100g":{"C":2038.0},"saturated_fat_100g":{"C":4.9}}
+{"code":"3269617104403","energy_kcal_100g":{"C":333.0},"carbohydrates_100g":{"C":0.7}}
+{"code":"3350033606104","fat_100g":{"C":49.0}}
+{"code":"3425850703128","fat_100g":{"C":7.8},"saturated_fat_100g":{"C":3.0}}
+{"code":"3456700230402","sugars_100g":{"C":1.1},"energy_kj_100g":{"C":599.0},"fat_100g":{"C":8.9},"proteins_100g":{"C":8.0},"salt_100g":{"C":0.82}}
+{"code":"3477730001213","note":"Etiquette reading truncated in transit (6000-char cap); re-run pending","rerun":true}
+{"code":"3508500000003","energy_kj_100g":{"C":1793.0},"salt_100g":{"C":1.0},"note":"Etiquette read 0.1 for a printed Sel 1g"}
+{"code":"3700821000223","energy_kcal_100g":{"C":235.0},"saturated_fat_100g":{"C":10.0},"salt_100g":{"C":1.0}}
+{"code":"3760027470152","fat_100g":{"C":57.74},"saturated_fat_100g":{"C":7.49},"carbohydrates_100g":{"C":12.93},"sugars_100g":{"C":9.77},"fiber_100g":{"C":8.23},"proteins_100g":{"C":14.92},"note":"their model shifted every row by one"}
+{"code":"3770013887284","energy_kj_100g":{"C":1707.0}}
+{"code":"3498940011694","sugars_100g":{"C":2.0}}
+{"code":"3661945710026","energy_kcal_100g":{"C":351.0},"carbohydrates_100g":{"C":86.0},"proteins_100g":{"C":0.2}}
+{"code":"3760032210187","sugars_100g":{"C":null,"q":"dash"},"fiber_100g":{"C":3.9},"proteins_100g":{"C":4.6},"note":"label lists amidon 24,9 g between sucres (dash) and fibres; human labels took amidon as sugars; Etiquette shifted fiber/proteins one row"}
+{"code":"3760036824380","sugars_100g":{"C":1.4}}
+{"code":"3760050920075","salt_100g":{"C":1.4}}
+{"code":"4311501797044","energy_kcal_100g":{"C":492.0}}
+{"code":"5060674960005","energy_kcal_100g":{"C":35.0},"proteins_100g":{"C":2.4},"note":"'2.49' = 2,4 g with g read as 9; both models 2.4"}
+{"code":"5201004020208","energy_kcal_100g":{"C":381.0},"energy_kj_100g":{"C":1607.0},"saturated_fat_100g":{"C":6.0},"carbohydrates_100g":{"C":69.0},"sugars_100g":{"C":52.0}}
+{"code":"5900531001079","energy_kcal_100g":{"C":292.0},"carbohydrates_100g":{"C":3.3},"sugars_100g":{"C":3.3},"proteins_100g":{"C":2.2}}
+{"code":"5941017010383","energy_kcal_100g":{"C":419.0},"energy_kj_100g":{"C":1767.0}}
+{"code":"7610807165173","carbohydrates_100g":{"C":62.0},"sugars_100g":{"C":26.0}}
+{"code":"7613034675842","energy_kj_100g":{"C":1993.0},"fat_100g":{"C":20.8},"saturated_fat_100g":{"C":11.1},"carbohydrates_100g":{"C":65.6},"sugars_100g":{"C":42.3},"fiber_100g":{"C":1.6},"proteins_100g":{"C":5.6},"salt_100g":{"C":0.53}}
+{"code":"7613035289154","fat_100g":{"C":15.0},"saturated_fat_100g":{"C":3.0},"carbohydrates_100g":{"C":1.5},"sugars_100g":{"C":1.5},"fiber_100g":{"C":1.0},"proteins_100g":{"C":14.0},"salt_100g":{"C":1.4}}
+{"code":"7613035499560","fat_100g":{"C":27.0},"saturated_fat_100g":{"C":15.7},"carbohydrates_100g":{"C":62.2},"sugars_100g":{"C":39.2},"fiber_100g":{"C":0.5},"proteins_100g":{"C":6.2},"salt_100g":{"C":0.1}}
+{"code":"7613196001763","proteins_100g":{"C":4.2}}
+{"code":"5017689004170","fat_100g":{"C":10.5}}
+{"code":"5400119018869","energy_kcal_100g":{"C":57.0}}
+{"code":"5400141058086","proteins_100g":{"C":0.5,"q":"<"},"note":"Etiquette read 0.6, the per-pot value in brackets"}
+{"code":"5900012008610","saturated_fat_100g":{"C":1.4},"sugars_100g":{"C":1.2},"fiber_100g":{"C":4.6},"proteins_100g":{"C":3.8}}
+{"code":"6141437686062","energy_kj_100g":{"C":749.0},"carbohydrates_100g":{"C":39.0}}
+{"code":"7610195121386","fat_100g":{"C":32.0},"carbohydrates_100g":{"C":1.5},"sugars_100g":{"C":null}}
+{"code":"7610818170104","fat_100g":{"C":0.0},"note":"Etiquette read 0.9 for a printed 0 g"}
+{"code":"7613033771200","fiber_100g":{"C":7.4},"proteins_100g":{"C":7.2},"salt_100g":{"C":0.1}}
+{"code":"7613036116275","energy_kcal_100g":{"C":104.0},"fat_100g":{"C":2.5},"saturated_fat_100g":{"C":1.0},"carbohydrates_100g":{"C":0.4},"sugars_100g":{"C":0.4},"fiber_100g":{"C":0.5,"q":"<"},"proteins_100g":{"C":20.0},"salt_100g":{"C":1.4},"note":"tiny table on a ham pack; Etiquette right on 7 of 8, kcal read 12; their model wrong on fat, sat, fiber, salt"}
+{"code":"7613269269410","fat_100g":{"C":0.5,"q":"<"},"saturated_fat_100g":{"C":0.5,"q":"<"},"proteins_100g":{"C":0.5,"q":"<"}}
+{"code":"7622210645128","carbohydrates_100g":{"C":57.0},"sugars_100g":{"C":56.0},"fiber_100g":{"C":0.9}}
+{"code":"8002734100607","fat_100g":{"C":13.0},"saturated_fat_100g":{"C":8.0}}
+{"code":"8004970133111","energy_kcal_100g":{"C":488.0}}
+{"code":"8410069002297","energy_kj_100g":{"C":1458.0}}
+{"code":"8412270300025","energy_kcal_100g":{"C":659.0},"energy_kj_100g":{"C":2757.0},"saturated_fat_100g":{"C":16.13},"carbohydrates_100g":{"C":11.74},"sugars_100g":{"C":2.33}}
+{"code":"8420683700813","energy_kcal_100g":{"C":120.0},"fat_100g":{"C":3.3},"proteins_100g":{"C":7.2},"salt_100g":{"C":2.13},"note":"Etiquette read 5.3 for a printed 3,3 g on a rotated label"}
+{"code":"8424523060440","fiber_100g":{"C":1.9},"salt_100g":{"C":1.4}}
+{"code":"8433329104128","energy_kj_100g":{"C":3048.0},"fat_100g":{"C":82.0},"saturated_fat_100g":{"C":56.0}}
+{"code":"8433543001043","energy_kj_100g":{"C":629.0},"proteins_100g":{"C":1.2},"salt_100g":{"C":2.3}}
+{"code":"8437003148057","energy_kcal_100g":{"C":440.4},"energy_kj_100g":{"C":1840.87},"fat_100g":{"C":18.93},"saturated_fat_100g":{"C":2.52},"carbohydrates_100g":{"C":61.07},"proteins_100g":{"C":6.36}}
+{"code":"8801052202044","fat_100g":{"C":1.6},"carbohydrates_100g":{"C":48.3},"sugars_100g":{"C":0.0},"proteins_100g":{"C":17.6}}
+{"code":"80022169","energy_kcal_100g":{"C":236.0},"sugars_100g":{"C":0.0}}
+{"code":"8410261650371","energy_kj_100g":{"C":114.0}}
+{"code":"8414472103848","energy_kj_100g":{"C":1707.0},"saturated_fat_100g":{"C":0.7}}
+{"code":"8420321030319","energy_kcal_100g":{"C":204.0},"energy_kj_100g":{"C":855.0},"saturated_fat_100g":{"C":2.3},"fiber_100g":{"C":null},"proteins_100g":{"C":9.2},"salt_100g":{"C":0.7}}
+{"code":"8435037841401","energy_kcal_100g":{"C":274.0},"fiber_100g":{"C":3.3},"note":"Etiquette read 3.9 for a printed 3,3 g on a rotated label"}
+{"code":"8480000396969","saturated_fat_100g":{"C":0.0}}
+{"code":"8480000504012","energy_kcal_100g":{"C":224.0},"sugars_100g":{"C":1.8}}

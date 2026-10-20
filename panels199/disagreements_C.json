@@ -1,0 +1,1574 @@
+{
+"theirs": [
+{
+"code": "0013602004369",
+"field": "energy_kcal_serving",
+"printed": 100.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/001/360/200/4369/2.jpg"
+},
+{
+"code": "0013602004369",
+"field": "fat_serving",
+"printed": 0.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/001/360/200/4369/2.jpg"
+},
+{
+"code": "0013602004369",
+"field": "saturated_fat_serving",
+"printed": 0.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/001/360/200/4369/2.jpg"
+},
+{
+"code": "0013602004369",
+"field": "carbohydrates_serving",
+"printed": 25.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/001/360/200/4369/2.jpg"
+},
+{
+"code": "0013602004369",
+"field": "sugars_serving",
+"printed": 23.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/001/360/200/4369/2.jpg"
+},
+{
+"code": "0013602004369",
+"field": "fiber_serving",
+"printed": 0.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/001/360/200/4369/2.jpg"
+},
+{
+"code": "0013602004369",
+"field": "proteins_serving",
+"printed": 0.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/001/360/200/4369/2.jpg"
+},
+{
+"code": "0207050011813",
+"field": "energy_kcal_100g",
+"printed": 304.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/020/705/001/1813/2.jpg"
+},
+{
+"code": "0207050011813",
+"field": "proteins_100g",
+"printed": 3.6,
+"read": 36.0,
+"image": "https://images.openfoodfacts.org/images/products/020/705/001/1813/2.jpg"
+},
+{
+"code": "0212174025325",
+"field": "fat_100g",
+"printed": 19.9,
+"read": 19.0,
+"image": "https://images.openfoodfacts.org/images/products/021/217/402/5325/2.jpg"
+},
+{
+"code": "0238094012467",
+"field": "salt_100g",
+"printed": 0.1,
+"read": 0.0,
+"image": "https://images.openfoodfacts.org/images/products/023/809/401/2467/2.jpg"
+},
+{
+"code": "2010000076965",
+"field": "energy_kcal_100g",
+"printed": 156.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/201/000/007/6965/2.jpg"
+},
+{
+"code": "20228583",
+"field": "energy_kcal_100g",
+"printed": 106.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/000/002/022/8583/13.jpg"
+},
+{
+"code": "20228583",
+"field": "proteins_100g",
+"printed": 9.8,
+"read": 98.0,
+"image": "https://images.openfoodfacts.org/images/products/000/002/022/8583/13.jpg"
+},
+{
+"code": "2205879003864",
+"field": "energy_kcal_100g",
+"printed": 125.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/220/587/900/3864/4.jpg"
+},
+{
+"code": "2209250005904",
+"field": "energy_kcal_100g",
+"printed": 119.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/220/925/000/5904/3.jpg"
+},
+{
+"code": "2245349023886",
+"field": "energy_kcal_100g",
+"printed": 154.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/224/534/902/3886/3.jpg"
+},
+{
+"code": "2245349023886",
+"field": "energy_kj_100g",
+"printed": 642.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/224/534/902/3886/3.jpg"
+},
+{
+"code": "2245349023886",
+"field": "carbohydrates_100g",
+"printed": 0.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/224/534/902/3886/3.jpg"
+},
+{
+"code": "2245349023886",
+"field": "sugars_100g",
+"printed": 0.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/224/534/902/3886/3.jpg"
+},
+{
+"code": "2245349023886",
+"field": "salt_100g",
+"printed": 0.13,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/224/534/902/3886/3.jpg"
+},
+{
+"code": "2245349024531",
+"field": "energy_kcal_100g",
+"printed": 154.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/224/534/902/4531/2.jpg"
+},
+{
+"code": "2245349024531",
+"field": "fat_100g",
+"printed": 1.8,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/224/534/902/4531/2.jpg"
+},
+{
+"code": "2245349024531",
+"field": "carbohydrates_100g",
+"printed": 0.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/224/534/902/4531/2.jpg"
+},
+{
+"code": "2245349024531",
+"field": "sugars_100g",
+"printed": 0.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/224/534/902/4531/2.jpg"
+},
+{
+"code": "2245349024531",
+"field": "salt_100g",
+"printed": 0.13,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/224/534/902/4531/2.jpg"
+},
+{
+"code": "2274902040015",
+"field": "fat_100g",
+"printed": 12.9,
+"read": 12.0,
+"image": "https://images.openfoodfacts.org/images/products/227/490/204/0015/2.jpg"
+},
+{
+"code": "2274902040015",
+"field": "carbohydrates_100g",
+"printed": 16.9,
+"read": 16.0,
+"image": "https://images.openfoodfacts.org/images/products/227/490/204/0015/2.jpg"
+},
+{
+"code": "2600712024806",
+"field": "energy_kj_100g",
+"printed": 2038.0,
+"read": 2.0,
+"image": "https://images.openfoodfacts.org/images/products/260/071/202/4806/2.jpg"
+},
+{
+"code": "2600712024806",
+"field": "saturated_fat_100g",
+"printed": 4.9,
+"read": 49.0,
+"image": "https://images.openfoodfacts.org/images/products/260/071/202/4806/2.jpg"
+},
+{
+"code": "29032532",
+"field": "energy_kcal_100g",
+"printed": 65.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/000/002/903/2532/5.jpg"
+},
+{
+"code": "2910833010368",
+"field": "carbohydrates_100g",
+"printed": 1.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/291/083/301/0368/4.jpg"
+},
+{
+"code": "2910833010368",
+"field": "salt_100g",
+"printed": 2.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/291/083/301/0368/4.jpg"
+},
+{
+"code": "2999457006223",
+"field": "energy_kcal_100g",
+"printed": 350.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/299/945/700/6223/2.jpg"
+},
+{
+"code": "3078818090053",
+"field": "energy_kcal_100g",
+"printed": 536.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/307/881/809/0053/4.jpg"
+},
+{
+"code": "3104680661265",
+"field": "saturated_fat_100g",
+"printed": 0.1,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/310/468/066/1265/2.jpg"
+},
+{
+"code": "3104680661265",
+"field": "salt_100g",
+"printed": 0.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/310/468/066/1265/2.jpg"
+},
+{
+"code": "3171910664624",
+"field": "energy_kcal_100g",
+"printed": 361.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/317/191/066/4624/2.jpg"
+},
+{
+"code": "3180730500685",
+"field": "energy_kcal_100g",
+"printed": 98.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/318/073/050/0685/2.jpg"
+},
+{
+"code": "3268260006058",
+"field": "energy_kcal_100g",
+"printed": 154.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/326/826/000/6058/7.jpg"
+},
+{
+"code": "3269617104403",
+"field": "energy_kcal_100g",
+"printed": 333.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/326/961/710/4403/3.jpg"
+},
+{
+"code": "3282620038336",
+"field": "energy_kcal_100g",
+"printed": 140.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/328/262/003/8336/3.jpg"
+},
+{
+"code": "3350033606104",
+"field": "fat_100g",
+"printed": 49.0,
+"read": 4.0,
+"image": "https://images.openfoodfacts.org/images/products/335/003/360/6104/4.jpg"
+},
+{
+"code": "3350240870916",
+"field": "carbohydrates_100g",
+"printed": 0.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/335/024/087/0916/2.jpg"
+},
+{
+"code": "3350240870916",
+"field": "sugars_100g",
+"printed": 0.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/335/024/087/0916/2.jpg"
+},
+{
+"code": "3425850703128",
+"field": "fat_100g",
+"printed": 7.8,
+"read": 3.0,
+"image": "https://images.openfoodfacts.org/images/products/342/585/070/3128/2.jpg"
+},
+{
+"code": "3425850703128",
+"field": "saturated_fat_100g",
+"printed": 3.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/342/585/070/3128/2.jpg"
+},
+{
+"code": "3456700230402",
+"field": "energy_kj_100g",
+"printed": 599.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/345/670/023/0402/9.jpg"
+},
+{
+"code": "3456700230402",
+"field": "fat_100g",
+"printed": 8.9,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/345/670/023/0402/9.jpg"
+},
+{
+"code": "3456700230402",
+"field": "sugars_100g",
+"printed": 1.1,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/345/670/023/0402/9.jpg"
+},
+{
+"code": "3456700230402",
+"field": "proteins_100g",
+"printed": 8.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/345/670/023/0402/9.jpg"
+},
+{
+"code": "3456700230402",
+"field": "salt_100g",
+"printed": 0.82,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/345/670/023/0402/9.jpg"
+},
+{
+"code": "3498940011694",
+"field": "sugars_100g",
+"printed": 2.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/349/894/001/1694/4.jpg"
+},
+{
+"code": "3508500000003",
+"field": "energy_kj_100g",
+"printed": 1793.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/350/850/000/0003/6.jpg"
+},
+{
+"code": "3576620008209",
+"field": "sugars_100g",
+"printed": 0.9,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/357/662/000/8209/4.jpg"
+},
+{
+"code": "3661945710026",
+"field": "energy_kcal_100g",
+"printed": 351.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/366/194/571/0026/4.jpg"
+},
+{
+"code": "3664042005583",
+"field": "energy_kcal_100g",
+"printed": 394.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/366/404/200/5583/2.jpg"
+},
+{
+"code": "3700821000223",
+"field": "energy_kcal_100g",
+"printed": 235.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/370/082/100/0223/2.jpg"
+},
+{
+"code": "3700821000223",
+"field": "saturated_fat_100g",
+"printed": 10.0,
+"read": 0.0,
+"image": "https://images.openfoodfacts.org/images/products/370/082/100/0223/2.jpg"
+},
+{
+"code": "3700821000223",
+"field": "salt_100g",
+"printed": 1.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/370/082/100/0223/2.jpg"
+},
+{
+"code": "3701002401648",
+"field": "energy_kcal_100g",
+"printed": 117.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/370/100/240/1648/7.jpg"
+},
+{
+"code": "3760027470152",
+"field": "fat_100g",
+"printed": 57.74,
+"read": 14.92,
+"image": "https://images.openfoodfacts.org/images/products/376/002/747/0152/1.jpg"
+},
+{
+"code": "3760027470152",
+"field": "saturated_fat_100g",
+"printed": 7.49,
+"read": 12.93,
+"image": "https://images.openfoodfacts.org/images/products/376/002/747/0152/1.jpg"
+},
+{
+"code": "3760027470152",
+"field": "carbohydrates_100g",
+"printed": 12.93,
+"read": 9.77,
+"image": "https://images.openfoodfacts.org/images/products/376/002/747/0152/1.jpg"
+},
+{
+"code": "3760027470152",
+"field": "sugars_100g",
+"printed": 9.77,
+"read": 7.49,
+"image": "https://images.openfoodfacts.org/images/products/376/002/747/0152/1.jpg"
+},
+{
+"code": "3760027470152",
+"field": "fiber_100g",
+"printed": 8.23,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/376/002/747/0152/1.jpg"
+},
+{
+"code": "3760027470152",
+"field": "proteins_100g",
+"printed": 14.92,
+"read": 8.23,
+"image": "https://images.openfoodfacts.org/images/products/376/002/747/0152/1.jpg"
+},
+{
+"code": "3760032210187",
+"field": "sugars_100g",
+"printed": null,
+"read": 24.9,
+"image": "https://images.openfoodfacts.org/images/products/376/003/221/0187/6.jpg"
+},
+{
+"code": "3760038630149",
+"field": "salt_100g",
+"printed": 1.7,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/376/003/863/0149/4.jpg"
+},
+{
+"code": "3760050920075",
+"field": "salt_100g",
+"printed": 1.4,
+"read": 1.0,
+"image": "https://images.openfoodfacts.org/images/products/376/005/092/0075/3.jpg"
+},
+{
+"code": "3760082241063",
+"field": "proteins_100g",
+"printed": 9.5,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/376/008/224/1063/2.jpg"
+},
+{
+"code": "3770008919792",
+"field": "energy_kcal_100g",
+"printed": 528.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/377/000/891/9792/2.jpg"
+},
+{
+"code": "3770013887284",
+"field": "energy_kj_100g",
+"printed": 1707.0,
+"read": 1.0,
+"image": "https://images.openfoodfacts.org/images/products/377/001/388/7284/4.jpg"
+},
+{
+"code": "4008728002302",
+"field": "energy_kcal_100g",
+"printed": 453.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/400/872/800/2302/2.jpg"
+},
+{
+"code": "4056489232124",
+"field": "energy_kcal_100g",
+"printed": 188.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/405/648/923/2124/7.jpg"
+},
+{
+"code": "4088600048482",
+"field": "energy_kcal_100g",
+"printed": 65.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/408/860/004/8482/2.jpg"
+},
+{
+"code": "4306188390596",
+"field": "energy_kcal_100g",
+"printed": 165.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/430/618/839/0596/3.jpg"
+},
+{
+"code": "4311501797044",
+"field": "energy_kcal_100g",
+"printed": 492.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/431/150/179/7044/3.jpg"
+},
+{
+"code": "4316268451086",
+"field": "energy_kcal_100g",
+"printed": 48.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/431/626/845/1086/8.jpg"
+},
+{
+"code": "451420309920002744",
+"field": "energy_kcal_100g",
+"printed": 211.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/451/420/309/920002744/2.jpg"
+},
+{
+"code": "5000157144270",
+"field": "energy_kcal_100g",
+"printed": 156.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/500/015/714/4270/2.jpg"
+},
+{
+"code": "5017689004170",
+"field": "fat_100g",
+"printed": 10.5,
+"read": 10.0,
+"image": "https://images.openfoodfacts.org/images/products/501/768/900/4170/5.jpg"
+},
+{
+"code": "5060674960005",
+"field": "energy_kcal_100g",
+"printed": 35.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/506/067/496/0005/6.jpg"
+},
+{
+"code": "5201004020208",
+"field": "energy_kcal_100g",
+"printed": 381.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/520/100/402/0208/2.jpg"
+},
+{
+"code": "5201004020208",
+"field": "energy_kj_100g",
+"printed": 1607.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/520/100/402/0208/2.jpg"
+},
+{
+"code": "5201004020208",
+"field": "carbohydrates_100g",
+"printed": 69.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/520/100/402/0208/2.jpg"
+},
+{
+"code": "5201004020208",
+"field": "sugars_100g",
+"printed": 52.0,
+"read": 6.5,
+"image": "https://images.openfoodfacts.org/images/products/520/100/402/0208/2.jpg"
+},
+{
+"code": "5400111087894",
+"field": "energy_kcal_100g",
+"printed": 248.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/540/011/108/7894/9.jpg"
+},
+{
+"code": "5400119018869",
+"field": "energy_kcal_100g",
+"printed": 57.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/540/011/901/8869/6.jpg"
+},
+{
+"code": "5900012008610",
+"field": "fiber_100g",
+"printed": 4.6,
+"read": 46.0,
+"image": "https://images.openfoodfacts.org/images/products/590/001/200/8610/3.jpg"
+},
+{
+"code": "5900259104359",
+"field": "fiber_100g",
+"printed": 4.3,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/590/025/910/4359/4.jpg"
+},
+{
+"code": "5900259104359",
+"field": "proteins_100g",
+"printed": 6.2,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/590/025/910/4359/4.jpg"
+},
+{
+"code": "5900259104359",
+"field": "salt_100g",
+"printed": 1.6,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/590/025/910/4359/4.jpg"
+},
+{
+"code": "5900531001079",
+"field": "energy_kcal_100g",
+"printed": 292.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/590/053/100/1079/3.jpg"
+},
+{
+"code": "5941017010383",
+"field": "energy_kcal_100g",
+"printed": 419.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/594/101/701/0383/2.jpg"
+},
+{
+"code": "5941017010383",
+"field": "energy_kj_100g",
+"printed": 1767.0,
+"read": 1.767,
+"image": "https://images.openfoodfacts.org/images/products/594/101/701/0383/2.jpg"
+},
+{
+"code": "6141437686062",
+"field": "energy_kj_100g",
+"printed": 749.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/614/143/768/6062/2.jpg"
+},
+{
+"code": "6141437686062",
+"field": "carbohydrates_100g",
+"printed": 39.0,
+"read": 3.0,
+"image": "https://images.openfoodfacts.org/images/products/614/143/768/6062/2.jpg"
+},
+{
+"code": "7610195121386",
+"field": "fat_100g",
+"printed": 32.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/761/019/512/1386/1.jpg"
+},
+{
+"code": "7610195121386",
+"field": "carbohydrates_100g",
+"printed": 1.5,
+"read": 32.0,
+"image": "https://images.openfoodfacts.org/images/products/761/019/512/1386/1.jpg"
+},
+{
+"code": "7610195121386",
+"field": "sugars_100g",
+"printed": null,
+"read": 15.0,
+"image": "https://images.openfoodfacts.org/images/products/761/019/512/1386/1.jpg"
+},
+{
+"code": "7610198012537",
+"field": "energy_kj_100g",
+"printed": 390.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/761/019/801/2537/3.jpg"
+},
+{
+"code": "7610807165173",
+"field": "carbohydrates_100g",
+"printed": 62.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/761/080/716/5173/2.jpg"
+},
+{
+"code": "7610807165173",
+"field": "sugars_100g",
+"printed": 26.0,
+"read": 62.0,
+"image": "https://images.openfoodfacts.org/images/products/761/080/716/5173/2.jpg"
+},
+{
+"code": "7613033771200",
+"field": "fiber_100g",
+"printed": 7.4,
+"read": 1.9,
+"image": "https://images.openfoodfacts.org/images/products/761/303/377/1200/4.jpg"
+},
+{
+"code": "7613033771200",
+"field": "proteins_100g",
+"printed": 7.2,
+"read": 7.0,
+"image": "https://images.openfoodfacts.org/images/products/761/303/377/1200/4.jpg"
+},
+{
+"code": "7613033771200",
+"field": "salt_100g",
+"printed": 0.1,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/761/303/377/1200/4.jpg"
+},
+{
+"code": "7613034675842",
+"field": "energy_kj_100g",
+"printed": 1993.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/761/303/467/5842/2.jpg"
+},
+{
+"code": "7613034675842",
+"field": "fat_100g",
+"printed": 20.8,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/761/303/467/5842/2.jpg"
+},
+{
+"code": "7613034675842",
+"field": "saturated_fat_100g",
+"printed": 11.1,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/761/303/467/5842/2.jpg"
+},
+{
+"code": "7613034675842",
+"field": "carbohydrates_100g",
+"printed": 65.6,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/761/303/467/5842/2.jpg"
+},
+{
+"code": "7613034675842",
+"field": "sugars_100g",
+"printed": 42.3,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/761/303/467/5842/2.jpg"
+},
+{
+"code": "7613034675842",
+"field": "fiber_100g",
+"printed": 1.6,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/761/303/467/5842/2.jpg"
+},
+{
+"code": "7613034675842",
+"field": "proteins_100g",
+"printed": 5.6,
+"read": 1.0,
+"image": "https://images.openfoodfacts.org/images/products/761/303/467/5842/2.jpg"
+},
+{
+"code": "7613034675842",
+"field": "salt_100g",
+"printed": 0.53,
+"read": 0.1,
+"image": "https://images.openfoodfacts.org/images/products/761/303/467/5842/2.jpg"
+},
+{
+"code": "7613035289154",
+"field": "fat_100g",
+"printed": 15.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/761/303/528/9154/3.jpg"
+},
+{
+"code": "7613035289154",
+"field": "saturated_fat_100g",
+"printed": 3.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/761/303/528/9154/3.jpg"
+},
+{
+"code": "7613035289154",
+"field": "carbohydrates_100g",
+"printed": 1.5,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/761/303/528/9154/3.jpg"
+},
+{
+"code": "7613035289154",
+"field": "sugars_100g",
+"printed": 1.5,
+"read": 1.0,
+"image": "https://images.openfoodfacts.org/images/products/761/303/528/9154/3.jpg"
+},
+{
+"code": "7613035289154",
+"field": "fiber_100g",
+"printed": 1.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/761/303/528/9154/3.jpg"
+},
+{
+"code": "7613035289154",
+"field": "proteins_100g",
+"printed": 14.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/761/303/528/9154/3.jpg"
+},
+{
+"code": "7613035289154",
+"field": "salt_100g",
+"printed": 1.4,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/761/303/528/9154/3.jpg"
+},
+{
+"code": "7613035499560",
+"field": "fat_100g",
+"printed": 27.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/761/303/549/9560/5.jpg"
+},
+{
+"code": "7613035499560",
+"field": "saturated_fat_100g",
+"printed": 15.7,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/761/303/549/9560/5.jpg"
+},
+{
+"code": "7613035499560",
+"field": "carbohydrates_100g",
+"printed": 62.2,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/761/303/549/9560/5.jpg"
+},
+{
+"code": "7613035499560",
+"field": "sugars_100g",
+"printed": 39.2,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/761/303/549/9560/5.jpg"
+},
+{
+"code": "7613035499560",
+"field": "fiber_100g",
+"printed": 0.5,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/761/303/549/9560/5.jpg"
+},
+{
+"code": "7613035499560",
+"field": "proteins_100g",
+"printed": 6.2,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/761/303/549/9560/5.jpg"
+},
+{
+"code": "7613035499560",
+"field": "salt_100g",
+"printed": 0.1,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/761/303/549/9560/5.jpg"
+},
+{
+"code": "7613035852273",
+"field": "energy_kj_100g",
+"printed": 2322.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/761/303/585/2273/2.jpg"
+},
+{
+"code": "7613036116275",
+"field": "fat_100g",
+"printed": 2.5,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/761/303/611/6275/1.jpg"
+},
+{
+"code": "7613036116275",
+"field": "saturated_fat_100g",
+"printed": 1.0,
+"read": 25.0,
+"image": "https://images.openfoodfacts.org/images/products/761/303/611/6275/1.jpg"
+},
+{
+"code": "7613036116275",
+"field": "carbohydrates_100g",
+"printed": 0.4,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/761/303/611/6275/1.jpg"
+},
+{
+"code": "7613036116275",
+"field": "sugars_100g",
+"printed": 0.4,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/761/303/611/6275/1.jpg"
+},
+{
+"code": "7613036116275",
+"field": "fiber_100g",
+"printed": 0.5,
+"read": 0.4,
+"image": "https://images.openfoodfacts.org/images/products/761/303/611/6275/1.jpg"
+},
+{
+"code": "7613036116275",
+"field": "proteins_100g",
+"printed": 20.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/761/303/611/6275/1.jpg"
+},
+{
+"code": "7613036116275",
+"field": "salt_100g",
+"printed": 1.4,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/761/303/611/6275/1.jpg"
+},
+{
+"code": "7622210645128",
+"field": "carbohydrates_100g",
+"printed": 57.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/762/221/064/5128/2.jpg"
+},
+{
+"code": "7622210645128",
+"field": "sugars_100g",
+"printed": 56.0,
+"read": 0.0,
+"image": "https://images.openfoodfacts.org/images/products/762/221/064/5128/2.jpg"
+},
+{
+"code": "7622210645128",
+"field": "fiber_100g",
+"printed": 0.9,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/762/221/064/5128/2.jpg"
+},
+{
+"code": "80022169",
+"field": "energy_kcal_100g",
+"printed": 236.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/000/008/002/2169/4.jpg"
+},
+{
+"code": "80022169",
+"field": "sugars_100g",
+"printed": 0.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/000/008/002/2169/4.jpg"
+},
+{
+"code": "8002734100607",
+"field": "fat_100g",
+"printed": 13.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/800/273/410/0607/2.jpg"
+},
+{
+"code": "8002734100607",
+"field": "saturated_fat_100g",
+"printed": 8.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/800/273/410/0607/2.jpg"
+},
+{
+"code": "8004970133111",
+"field": "energy_kcal_100g",
+"printed": 488.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/800/497/013/3111/4.jpg"
+},
+{
+"code": "8410069002297",
+"field": "energy_kj_100g",
+"printed": 1458.0,
+"read": 1.458,
+"image": "https://images.openfoodfacts.org/images/products/841/006/900/2297/4.jpg"
+},
+{
+"code": "8410261650371",
+"field": "energy_kj_100g",
+"printed": 114.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/841/026/165/0371/2.jpg"
+},
+{
+"code": "8412270300025",
+"field": "energy_kcal_100g",
+"printed": 659.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/841/227/030/0025/2.jpg"
+},
+{
+"code": "8412270300025",
+"field": "energy_kj_100g",
+"printed": 2757.0,
+"read": 2.757,
+"image": "https://images.openfoodfacts.org/images/products/841/227/030/0025/2.jpg"
+},
+{
+"code": "8412270300025",
+"field": "saturated_fat_100g",
+"printed": 16.13,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/841/227/030/0025/2.jpg"
+},
+{
+"code": "8412270300025",
+"field": "carbohydrates_100g",
+"printed": 11.74,
+"read": 16.13,
+"image": "https://images.openfoodfacts.org/images/products/841/227/030/0025/2.jpg"
+},
+{
+"code": "8412270300025",
+"field": "sugars_100g",
+"printed": 2.33,
+"read": 11.74,
+"image": "https://images.openfoodfacts.org/images/products/841/227/030/0025/2.jpg"
+},
+{
+"code": "8414472103848",
+"field": "energy_kj_100g",
+"printed": 1707.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/841/447/210/3848/2.jpg"
+},
+{
+"code": "8414472103848",
+"field": "saturated_fat_100g",
+"printed": 0.7,
+"read": 7.0,
+"image": "https://images.openfoodfacts.org/images/products/841/447/210/3848/2.jpg"
+},
+{
+"code": "8420321030319",
+"field": "energy_kcal_100g",
+"printed": 204.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/842/032/103/0319/2.jpg"
+},
+{
+"code": "8420321030319",
+"field": "energy_kj_100g",
+"printed": 855.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/842/032/103/0319/2.jpg"
+},
+{
+"code": "8420321030319",
+"field": "fiber_100g",
+"printed": null,
+"read": 6.0,
+"image": "https://images.openfoodfacts.org/images/products/842/032/103/0319/2.jpg"
+},
+{
+"code": "8420321030319",
+"field": "proteins_100g",
+"printed": 9.2,
+"read": 7.0,
+"image": "https://images.openfoodfacts.org/images/products/842/032/103/0319/2.jpg"
+},
+{
+"code": "8420321030319",
+"field": "salt_100g",
+"printed": 0.7,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/842/032/103/0319/2.jpg"
+},
+{
+"code": "8420683700813",
+"field": "energy_kcal_100g",
+"printed": 120.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/842/068/370/0813/2.jpg"
+},
+{
+"code": "8420683700813",
+"field": "proteins_100g",
+"printed": 7.2,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/842/068/370/0813/2.jpg"
+},
+{
+"code": "8420683700813",
+"field": "salt_100g",
+"printed": 2.13,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/842/068/370/0813/2.jpg"
+},
+{
+"code": "8433329104128",
+"field": "energy_kj_100g",
+"printed": 3048.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/843/332/910/4128/3.jpg"
+},
+{
+"code": "8433329104128",
+"field": "fat_100g",
+"printed": 82.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/843/332/910/4128/3.jpg"
+},
+{
+"code": "8433329104128",
+"field": "saturated_fat_100g",
+"printed": 56.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/843/332/910/4128/3.jpg"
+},
+{
+"code": "8433543001043",
+"field": "energy_kj_100g",
+"printed": 629.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/843/354/300/1043/2.jpg"
+},
+{
+"code": "8433543001043",
+"field": "proteins_100g",
+"printed": 1.2,
+"read": 12.0,
+"image": "https://images.openfoodfacts.org/images/products/843/354/300/1043/2.jpg"
+},
+{
+"code": "8433543001043",
+"field": "salt_100g",
+"printed": 2.3,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/843/354/300/1043/2.jpg"
+},
+{
+"code": "8435037841401",
+"field": "energy_kcal_100g",
+"printed": 274.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/843/503/784/1401/1.jpg"
+},
+{
+"code": "8436558283152",
+"field": "energy_kcal_100g",
+"printed": 68.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/843/655/828/3152/2.jpg"
+},
+{
+"code": "8437003148057",
+"field": "energy_kcal_100g",
+"printed": 440.4,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/843/700/314/8057/2.jpg"
+},
+{
+"code": "8437003148057",
+"field": "energy_kj_100g",
+"printed": 1840.87,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/843/700/314/8057/2.jpg"
+},
+{
+"code": "8437003148057",
+"field": "fat_100g",
+"printed": 18.93,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/843/700/314/8057/2.jpg"
+},
+{
+"code": "8437003148057",
+"field": "saturated_fat_100g",
+"printed": 2.52,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/843/700/314/8057/2.jpg"
+},
+{
+"code": "8437003148057",
+"field": "carbohydrates_100g",
+"printed": 61.07,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/843/700/314/8057/2.jpg"
+},
+{
+"code": "8437003148057",
+"field": "proteins_100g",
+"printed": 6.36,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/843/700/314/8057/2.jpg"
+},
+{
+"code": "8480000396969",
+"field": "saturated_fat_100g",
+"printed": 0.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/848/000/039/6969/1.jpg"
+},
+{
+"code": "8480000504012",
+"field": "energy_kcal_100g",
+"printed": 224.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/848/000/050/4012/6.jpg"
+},
+{
+"code": "8480000504012",
+"field": "sugars_100g",
+"printed": 1.8,
+"read": 1.0,
+"image": "https://images.openfoodfacts.org/images/products/848/000/050/4012/6.jpg"
+},
+{
+"code": "8710604727518",
+"field": "energy_kcal_100g",
+"printed": 24.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/871/060/472/7518/2.jpg"
+},
+{
+"code": "8801052202044",
+"field": "fat_100g",
+"printed": 1.6,
+"read": 25.0,
+"image": "https://images.openfoodfacts.org/images/products/880/105/220/2044/5.jpg"
+},
+{
+"code": "8801052202044",
+"field": "carbohydrates_100g",
+"printed": 48.3,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/880/105/220/2044/5.jpg"
+},
+{
+"code": "8801052202044",
+"field": "sugars_100g",
+"printed": 0.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/880/105/220/2044/5.jpg"
+},
+{
+"code": "8801052202044",
+"field": "proteins_100g",
+"printed": 17.6,
+"read": 0.0,
+"image": "https://images.openfoodfacts.org/images/products/880/105/220/2044/5.jpg"
+},
+{
+"code": "8859062580126",
+"field": "energy_kcal_100g",
+"printed": 429.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/885/906/258/0126/2.jpg"
+},
+{
+"code": "893320300320001404",
+"field": "energy_kcal_100g",
+"printed": 234.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/893/320/300/320001404/2.jpg"
+}
+],
+"ours": [
+{
+"code": "0010700066862",
+"field": "proteins_serving",
+"printed": 1.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/001/070/006/6862/3.jpg"
+},
+{
+"code": "0011110856050",
+"field": "sugars_serving",
+"printed": null,
+"read": 0.0,
+"image": "https://images.openfoodfacts.org/images/products/001/111/085/6050/4.jpg"
+},
+{
+"code": "0011110856050",
+"field": "fiber_serving",
+"printed": null,
+"read": 0.0,
+"image": "https://images.openfoodfacts.org/images/products/001/111/085/6050/4.jpg"
+},
+{
+"code": "06174988",
+"field": "salt_100g",
+"printed": 0.91,
+"read": 0.97,
+"image": "https://images.openfoodfacts.org/images/products/000/000/617/4988/13.jpg"
+},
+{
+"code": "2209250005904",
+"field": "carbohydrates_100g",
+"printed": 0.5,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/220/925/000/5904/3.jpg"
+},
+{
+"code": "2209250005904",
+"field": "sugars_100g",
+"printed": 0.5,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/220/925/000/5904/3.jpg"
+},
+{
+"code": "2245349023886",
+"field": "carbohydrates_100g",
+"printed": 0.0,
+"read": 23.0,
+"image": "https://images.openfoodfacts.org/images/products/224/534/902/3886/3.jpg"
+},
+{
+"code": "2245349023886",
+"field": "sugars_100g",
+"printed": 0.0,
+"read": 0.13,
+"image": "https://images.openfoodfacts.org/images/products/224/534/902/3886/3.jpg"
+},
+{
+"code": "3021760406199",
+"field": "salt_100g",
+"printed": 0.01,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/302/176/040/6199/8.jpg"
+},
+{
+"code": "3104680661265",
+"field": "salt_100g",
+"printed": 0.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/310/468/066/1265/2.jpg"
+},
+{
+"code": "3254566593811",
+"field": "fiber_100g",
+"printed": 0.5,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/325/456/659/3811/13.jpg"
+},
+{
+"code": "3383810002646",
+"field": "fat_100g",
+"printed": 0.5,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/338/381/000/2646/2.jpg"
+},
+{
+"code": "3383810002646",
+"field": "saturated_fat_100g",
+"printed": 0.1,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/338/381/000/2646/2.jpg"
+},
+{
+"code": "3383810002646",
+"field": "proteins_100g",
+"printed": 0.5,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/338/381/000/2646/2.jpg"
+},
+{
+"code": "3383810002646",
+"field": "salt_100g",
+"printed": 0.01,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/338/381/000/2646/2.jpg"
+},
+{
+"code": "3444942009061",
+"field": "sugars_100g",
+"printed": 0.5,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/344/494/200/9061/6.jpg"
+},
+{
+"code": "3508500000003",
+"field": "salt_100g",
+"printed": 1.0,
+"read": 0.1,
+"image": "https://images.openfoodfacts.org/images/products/350/850/000/0003/6.jpg"
+},
+{
+"code": "3517731520914",
+"field": "carbohydrates_100g",
+"printed": 0.5,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/351/773/152/0914/2.jpg"
+},
+{
+"code": "3517731520914",
+"field": "sugars_100g",
+"printed": 0.5,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/351/773/152/0914/2.jpg"
+},
+{
+"code": "3661945710026",
+"field": "carbohydrates_100g",
+"printed": 86.0,
+"read": 88.0,
+"image": "https://images.openfoodfacts.org/images/products/366/194/571/0026/4.jpg"
+},
+{
+"code": "3760032210187",
+"field": "sugars_100g",
+"printed": null,
+"read": 0.0,
+"image": "https://images.openfoodfacts.org/images/products/376/003/221/0187/6.jpg"
+},
+{
+"code": "3760032210187",
+"field": "fiber_100g",
+"printed": 3.9,
+"read": 24.9,
+"image": "https://images.openfoodfacts.org/images/products/376/003/221/0187/6.jpg"
+},
+{
+"code": "3760032210187",
+"field": "proteins_100g",
+"printed": 4.6,
+"read": 3.9,
+"image": "https://images.openfoodfacts.org/images/products/376/003/221/0187/6.jpg"
+},
+{
+"code": "4099100042832",
+"field": "sugars_serving",
+"printed": 1.0,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/409/910/004/2832/8.jpg"
+},
+{
+"code": "5400141058086",
+"field": "proteins_100g",
+"printed": 0.5,
+"read": 0.6,
+"image": "https://images.openfoodfacts.org/images/products/540/014/105/8086/5.jpg"
+},
+{
+"code": "6230321985654",
+"field": "fiber_100g",
+"printed": 0.5,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/623/032/198/5654/2.jpg"
+},
+{
+"code": "7610100055669",
+"field": "fiber_100g",
+"printed": 0.5,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/761/010/005/5669/10.jpg"
+},
+{
+"code": "7610818170104",
+"field": "fat_100g",
+"printed": 0.0,
+"read": 0.9,
+"image": "https://images.openfoodfacts.org/images/products/761/081/817/0104/13.jpg"
+},
+{
+"code": "7613035989535",
+"field": "fiber_100g",
+"printed": 0.5,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/761/303/598/9535/68.jpg"
+},
+{
+"code": "7613036101011",
+"field": "fiber_100g",
+"printed": 0.5,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/761/303/610/1011/3.jpg"
+},
+{
+"code": "7613036116275",
+"field": "energy_kcal_100g",
+"printed": 104.0,
+"read": 12.0,
+"image": "https://images.openfoodfacts.org/images/products/761/303/611/6275/1.jpg"
+},
+{
+"code": "7613269181057",
+"field": "fiber_100g",
+"printed": 0.5,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/761/326/918/1057/10.jpg"
+},
+{
+"code": "7613269193067",
+"field": "salt_100g",
+"printed": 0.1,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/761/326/919/3067/5.jpg"
+},
+{
+"code": "7613269269410",
+"field": "fat_100g",
+"printed": 0.5,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/761/326/926/9410/9.jpg"
+},
+{
+"code": "7613269269410",
+"field": "saturated_fat_100g",
+"printed": 0.5,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/761/326/926/9410/9.jpg"
+},
+{
+"code": "7613269269410",
+"field": "proteins_100g",
+"printed": 0.5,
+"read": null,
+"image": "https://images.openfoodfacts.org/images/products/761/326/926/9410/9.jpg"
+},
+{
+"code": "8420683700813",
+"field": "fat_100g",
+"printed": 3.3,
+"read": 5.3,
+"image": "https://images.openfoodfacts.org/images/products/842/068/370/0813/2.jpg"
+},
+{
+"code": "8435037841401",
+"field": "fiber_100g",
+"printed": 3.3,
+"read": 3.9,
+"image": "https://images.openfoodfacts.org/images/products/843/503/784/1401/1.jpg"
+}
+]
+}
