@@ -30,6 +30,32 @@ both readers give (basis, energy kcal, salt, sodium):
 On the whole card (product name, brand, net quantity, basis, three nutrients) Etiquette scores 83.0; nutrition-extractor does not read
 the text fields, so there is no whole-card comparison.
 
+## Run it yourself: CPU or GPU
+
+**Just the scoring, no model** (seconds, standard library only):
+
+    git clone https://github.com/FoodClockLabs/etiquette-benchmark && cd etiquette-benchmark
+    ./run.sh score
+
+**Etiquette on a CPU** (a laptop will do, the Q4_K_M quant, minutes per photo). Two terminals:
+
+    ./serve.sh cpu              # downloads the GGUF files (~5 GB) and starts llama-server
+    ./run.sh etiquette-gguf     # reads the 199 panels, writes panels199/predictions/etiquette-gguf.jsonl, then score it:
+    python3 panels199/score.py panels199/predictions/etiquette-gguf.jsonl
+
+**Etiquette on a GPU** (~17 GB VRAM, seconds per product, the f16 quant = the precision the tables used):
+
+    ./serve.sh gpu
+    ./run.sh etiquette-gguf
+
+**nutrition-extractor** (their model, CPU is fine, ~15 minutes per exam, CC BY-NC-SA so research use only):
+
+    ./run.sh setup
+    ./run.sh theirs
+
+`serve.sh` needs llama.cpp's `llama-server` on your PATH (`brew install llama.cpp`, or build it) and the `hf` CLI
+(`pip install huggingface_hub`). Try `--limit 10` on `run_etiquette_gguf.py` first to see it work before the full run.
+
 ## Reproduce the tables (seconds, no model, standard library)
 
     git clone https://github.com/FoodClockLabs/etiquette-benchmark && cd etiquette-benchmark
@@ -58,6 +84,7 @@ and pass the file to `panels199/score.py` or `holdout100/score.py`.
     panels199/score.py             A, B and C for any predictions file
     panels199/predictions/         nutrition-extractor.json, etiquette-run13.jsonl
     panels199/disagreements_C.json every remaining disagreement of either reader, with the image URL
+    serve.sh                       start Etiquette locally, cpu or gpu, for the runs above
     INTEGRATION.md                 how to serve Etiquette and map its reading to Robotoff's fields
 
 ## Where each reader fails (truth C)

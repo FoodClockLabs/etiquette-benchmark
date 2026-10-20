@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 # One entry point. Everything scores from the files in this repository without any model; the model runs are optional.
+#   ./serve.sh cpu|gpu          start Etiquette locally first (see README "Run it yourself"), then ./run.sh etiquette-gguf
 #   ./run.sh score              the headline tables, both exams, from the stored replies (standard library, seconds)
 #   ./run.sh setup              python venv + the light requirements; fetches the 199-panel parquet
 #   ./run.sh theirs             re-run nutrition-extractor on both exams (CPU ok, ~15 min each; CC BY-NC-SA, research use)
