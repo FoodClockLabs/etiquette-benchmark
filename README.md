@@ -86,6 +86,7 @@ and pass the file to `panels199/score.py` or `holdout100/score.py`.
     panels199/disagreements_C.json every remaining disagreement of either reader, with the image URL
     serve.sh                       start Etiquette locally, cpu or gpu, for the runs above
     INTEGRATION.md                 how to serve Etiquette and map its reading to Robotoff's fields
+    REPORT.md                      the write-up as posted to Open Food Facts
 
 ## Where each reader fails (truth C)
 
