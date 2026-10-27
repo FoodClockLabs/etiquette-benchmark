@@ -101,3 +101,10 @@ two "not a significant source" footnotes read as 0. All listed by barcode in `pa
 ## Licences
 
 Apache 2.0 for this repository, except `common/robotoff_port.py` (AGPL-3.0, a port of Robotoff). Data: see NOTICE.
+
+## Filing the reading: `category/`
+
+Etiquette returns no category on purpose. [`category/`](category/) is the separate step that files a reading into
+the Open Food Facts category taxonomy: a loader that fetches the current taxonomy from the openfoodfacts-server
+repository for you (nothing redistributed), and a two-call classifier for any OpenAI-compatible chat model that
+answers only with real taxonomy ids. The README there carries the hints we learned filing a few thousand cards.
